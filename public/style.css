@@ -1,0 +1,50 @@
+body {
+  background: #0f0f0f;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background: #1f1f1f;
+  padding: 40px;
+  border-radius: 15px;
+  text-align: center;
+  width: 400px;
+  box-shadow: 0 0 10px #ff0000;
+}
+
+h1 {
+  color: #ff0000;
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background: #ff0000;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #ff4d4d;
+}
+
+.note {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #aaa;
+}
