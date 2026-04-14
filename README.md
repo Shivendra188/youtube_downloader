@@ -3,13 +3,7 @@
 A full-stack **YouTube video and audio downloader** built with **Node.js, Express.js, and yt-dlp**.  
 This project allows users to download YouTube videos in MP4 format or extract audio in MP3 format using a clean web interface.
 
----
-
-
-
-
-
-
+--
 
 ## 🚀 Features
 
