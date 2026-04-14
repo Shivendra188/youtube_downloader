@@ -82,18 +82,3 @@ Make sure yt-dlp is installed either locally or globally
 
 Supports YouTube playlists and shorts
 
-🔗 Links
-yt-dlp GitHub
-
-👨‍💻 Author
-Shivendra
-
-yaml
-Copy code
-
----
-
-💡 Tip: You can also add a **project screenshot** in README to make it look professional.  
-Example:
-```markdown
-![YouTube Downloader Screenshot](screenshot.png)
