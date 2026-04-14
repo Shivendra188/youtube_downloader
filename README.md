@@ -16,7 +16,6 @@ This project allows users to download YouTube videos in MP4 format or extract au
 - Compatible with Windows, macOS, and Linux  
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
