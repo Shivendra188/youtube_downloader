@@ -13,7 +13,8 @@ This project allows users to download YouTube videos in MP4 format or extract au
 - Shows real-time download process in backend logs  
 - Saves downloads in a `/downloads` folder  
 - Simple and responsive HTML/CSS frontend  
-- Compatible with Windows, macOS, and Linux  
+- Compatible with Windows, macOS, and Linux
+- 
 
 ---
 ## 🛠️ Tech Stack
