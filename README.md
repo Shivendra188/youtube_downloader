@@ -5,7 +5,6 @@ This project allows users to download YouTube videos in MP4 format or extract au
 
 --
 ## 🚀 Features
-
 - Download YouTube videos in multiple resolutions  
 - Download only audio (MP3 format)  
 - Works for normal videos, playlists, and shorts  
@@ -14,8 +13,6 @@ This project allows users to download YouTube videos in MP4 format or extract au
 - Simple and responsive HTML/CSS frontend  
 - Compatible with Windows, macOS, and Linux
 - 
-
----
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
