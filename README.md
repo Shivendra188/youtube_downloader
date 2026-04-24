@@ -4,7 +4,7 @@ A full-stack **YouTube video and audio downloader** built with **Node.js, Expres
 This project allows users to download YouTube videos in MP4 format or extract audio in MP3 format using a clean web interface.
 --
 ## 🚀 Features
-- Download YouTube videos in multiple resolutions  
+- Download YouTube videos in multiple resolutions
 - Download only audio (MP3 format)  
 - Works for normal videos, playlists, and shorts  
 - Shows real-time download process in backend logs  
